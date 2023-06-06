@@ -1,0 +1,40 @@
+/* =========== */
+/* Boilerplate */
+/* =========== */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
+/* ====== */
+/* Layout */
+/* ====== */
+
+/* temp */
+body {
+  margin: 0 20px;
+}
+
+
+/* ===== */
+/* Theme */
+/* ===== */
+
+/* Fonts */
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 1.5em;
+}
